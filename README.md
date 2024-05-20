@@ -1,1 +1,1 @@
-# study_projects
+# my_projects
